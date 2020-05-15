@@ -1,0 +1,26 @@
+Hello this is E-Cell Tech Team.
+
+This is edited by Pratik.
+This is edited by Rajesh.
+This is edited by Nikhil.
+
+
+Commands-
+
+git init
+git remote add origin <github address>
+
+git clone <github address>
+
+git status
+git add .
+git commit -m "message"
+git log
+git log --oneline
+git pull origin master
+git push origin master
+
+git branch
+git branch <name>
+git checkout <name>
+git checkout -b <name>
